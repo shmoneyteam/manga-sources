@@ -1,0 +1,26 @@
+{
+  "name": "My Custom Manga Repo",
+  "repos": [],
+  "extensions": [
+    {
+      "name": "One Piece (Cubari)",
+      "author": "YourName",
+      "version": "1.0.0",
+      "icon": "https://cdn.myanimelist.net/images/manga/2/253146.jpg",
+      "pkgName": "ext.en.myrepo.onepiece",
+      "lang": "en",
+      "isNsfw": false,
+      "hasReadme": false,
+      "readmeUrl": "",
+      "apk": "https://raw.githubusercontent.com/celsiusnarhwal/punk-records/main/cubari.json",
+      "sources": [
+        {
+          "name": "One Piece",
+          "lang": "en",
+          "baseUrl": "https://raw.githubusercontent.com/celsiusnarhwal/punk-records/main/cubari.json",
+          "icon": "https://cdn.myanimelist.net/images/manga/2/253146.jpg"
+        }
+      ]
+    }
+  ]
+}
